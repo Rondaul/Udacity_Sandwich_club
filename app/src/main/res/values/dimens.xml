@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="expanded_toolbar_title_margin_start">64dp</dimen>
+    <dimen name="label_size">22sp</dimen>
+    <dimen name="values_size">20sp</dimen>
+    <dimen name="padding_horizontal">24dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="elevation_size">4dp</dimen>
+</resources>
